@@ -1,0 +1,36 @@
+{
+  "perfiles": {
+    "abatible": 135000,
+    "corredera": 120000,
+    "proyectante": 145000,
+    "oscilobatiente": 165000
+  },
+  "vidrio": {
+    "4-12-4": 42000,
+    "4-16-4": 47000,
+    "lowe": 58000,
+    "laminado": 69000
+  },
+  "color": {
+    "blanco": 1,
+    "antracita": 1.12,
+    "winchester": 1.18,
+    "roble": 1.2
+  },
+  "instalacion": 38000,
+  "traslado": {
+    "default": 25000,
+    "concepcion": 18000,
+    "hualpen": 20000,
+    "talcahuano": 22000,
+    "san pedro": 26000,
+    "chiguayante": 24000
+  },
+  "herrajes": 28000,
+  "leadTime": {
+    "abatible": "Fabricación 18 días hábiles",
+    "corredera": "Fabricación 15 días hábiles",
+    "proyectante": "Fabricación 21 días hábiles",
+    "oscilobatiente": "Fabricación 24 días hábiles"
+  }
+}

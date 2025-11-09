@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "headline": "Ventanas de PVC con ingeniería precisa. Confort real, eficiencia medible.",
+    "subheadline": "Fabricamos e instalamos en Concepción y BioBío. Medición profesional, montaje limpio, garantía real.",
+    "cta_whatsapp": "Cotizar por WhatsApp",
+    "cta_quote": "Cotizador Online"
+  },
+  "process": {
+    "intro": "Nuestro equipo acompaña cada proyecto desde la visita técnica hasta el seguimiento postventa con indicadores claros y responsables.",
+    "cta": "Coordinar visita técnica"
+  },
+  "contact": {
+    "headline": "Conversemos sobre tu proyecto de ventanas PVC",
+    "summary": "Resolvemos consultas técnicas, presupuestos y logística de instalación en menos de 24 horas hábiles.",
+    "form_success": "Gracias por escribirnos. Un especialista te contactará en menos de 24 horas hábiles.",
+    "whatsapp": "+56 9 6600 3771"
+  }
+}
