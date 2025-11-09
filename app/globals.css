@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --sw-bg: #0b0c0e;
+  --sw-ink: #e8ecef;
+  --sw-accent: #7dd3fc;
+  --sw-neutral: #a3a9b3;
+  --sw-card: #121417;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--sw-bg);
+  color: var(--sw-ink);
+  font-feature-settings: 'liga' 1, 'kern' 1;
+}
+
+* {
+  border-color: color-mix(in srgb, var(--sw-ink) 10%, transparent);
+}
+
+:focus-visible {
+  outline: 2px solid var(--sw-accent);
+  outline-offset: 2px;
+}
+
+.dark {
+  color-scheme: dark;
+}
